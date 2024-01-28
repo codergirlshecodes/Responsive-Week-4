@@ -190,7 +190,6 @@
     padding: 30px 120px;
     border-radius: 10px;
     margin-top: 40px;
-    
   }
 
   footer .contact-box p {
@@ -222,6 +221,10 @@
   footer .social-links a:hover {
     color: white;
     background: var(--branding-color);
+  }
+
+  footer .btn-branding {
+    margin-top: 20px;
   }
 
   .container-footer {
